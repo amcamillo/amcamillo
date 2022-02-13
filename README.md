@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Scripting, Python and KQL
 - 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
-- 📫 How to reach me:
-     > 🐦 @[iamcamillo](https://twitter.com/iamcamillo)
-     > 🧑‍💼 @[amcamillo](https://www.linkedin.com/in/amcamillo/)
-     > 🕸️ [Cloudnsec.com](https://cloudnsec.com)
-     > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)
-     > 🖋️ [Cloudnsec Blog] (https://andrecamillo.medium.com/)
+- 📫 How to reach me:<br/>
+     > 🐦 @[iamcamillo](https://twitter.com/iamcamillo)<br/>
+     > 🧑‍💼 @[amcamillo](https://www.linkedin.com/in/amcamillo/)<br/>
+     > 🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
+     > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
+     > 🖋️ [Cloudnsec Blog](https://andrecamillo.medium.com)<br/>
