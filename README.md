@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Camillo
 
 <!--
 **amcamillo/amcamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚒️ I’m currently working on Cloud Security.
+- 🌱 I’m currently learning Scripting, Python and KQL
+- 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes
+- 💬 Ask me about Career, Cloud, Infosec (and Music)
+- 📫 How to reach me:
+     > 🐦 @[iamcamillo](https://twitter.com/iamcamillo)
+     > 🧑‍💼 @[amcamillo](https://www.linkedin.com/in/amcamillo/)
+     > 🕸️ [Cloudnsec.com](https://cloudnsec.com)
+     > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)
+     > 🖋️ [Cloudnsec Blog] (https://andrecamillo.medium.com/)
