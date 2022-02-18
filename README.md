@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm passionate about Networking, Cloud and InfoSec. 
+A geek at heart, that loves to play with tech and the piano despite not being good at either.
+I guess I'm a rebel in that sense, then.
+
 - ⚒️ I’m currently working on Cloud Security.
-- 🌱 I’m currently learning Scripting, Python and KQL
-- 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes
+- 🌱 I’m currently interested in learning Scripting, Python and KQL
+- 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (Heard BICEPs could be interesting)
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
 - 📫 How to reach me:<br/>
      > 🐦 @[iamcamillo](https://twitter.com/iamcamillo)<br/>
