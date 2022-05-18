@@ -24,7 +24,7 @@ I guess I'm a rebel in that sense, then.
 - 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (Heard BICEPs could be interesting)
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
 - 📫 How to reach me:<br/>
-     > 🐦 @[iamcamillo](https://twitter.com/iamcamillo)<br/>
+     > 🐦 @[iamcamillo](https://twitter.com/_acamillo_)<br/>
      > 🧑‍💼 @[amcamillo](https://www.linkedin.com/in/amcamillo/)<br/>
      > 🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
      > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
