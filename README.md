@@ -19,7 +19,7 @@ I'm passionate about Networking, Cloud and InfoSec.
 A geek at heart, that loves to play with tech and the piano despite not being good at either.
 I guess you can call me a rebel (or just someone that is constantly learning) then.
 
-- ⚒️ I’m currently working @Microsoft with Cloud Security & Compliance.
+- ⚒️ I work @Microsoft with Cloud Security & Compliance.
 - 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (Heard BICEPs could be interesting)
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
 - 📫 How to reach me:<br/>
