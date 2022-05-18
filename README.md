@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Camillo
+### Hi there 👋 I'm Andre Camillo
 
 <!--
 **amcamillo/amcamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,6 @@ I guess you can call me a rebel (or just someone that is constantly learning) th
      > 🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
      > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
      > 🖋️ [Cloudnsec Blog](https://andrecamillo.medium.com)<br/>
+     > 🏢 [Cloudnsec Linkedin Page](https://www.linkedin.com/company/cloudnseclearning/)<br/>
      > 🧑‍💼 @[amcamillo](https://www.linkedin.com/in/amcamillo/)<br/>
      > 🐦 @[_acamillo_](https://twitter.com/_acamillo_)<br/>
