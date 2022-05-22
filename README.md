@@ -23,9 +23,13 @@ I guess you can call me a rebel (or just someone that is constantly learning) th
 - 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (Heard BICEPs could be interesting)
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
 - 📫 How to reach me:<br/>
+     > 🌲 [Linktr.ee](https://linktr.ee/acamillo)<br/>
+
+<!--
      > 🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
      > 🎙️ [Cloudnsec Podcast](https://bit.ly/cloudnsecspotify)<br/>
      > 🖋️ [Cloudnsec Blog](https://andrecamillo.medium.com)<br/>
      > 🏢 [Cloudnsec Linkedin Page](https://www.linkedin.com/company/cloudnseclearning/)<br/>
      > 🧑‍💼 @[amcamillo](https://www.linkedin.com/in/amcamillo/)<br/>
      > 🐦 @[_acamillo_](https://twitter.com/_acamillo_)<br/>
+-->
