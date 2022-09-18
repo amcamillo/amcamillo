@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about Networking, Cloud and InfoSec. 
-A geek at heart, that loves to play with tech and the piano despite not being good at either.
+I'm passionate about Networks, Cloud and InfoSec. 
+A geek at heart who loves to play with tech and the piano despite not being good at either.
 I guess you can call me a rebel (or just someone that is constantly learning) then.
 
 - ⚒️ I work @Microsoft with Cloud Security & Compliance.
-- 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (Heard BICEPs could be interesting)
+- 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (BICEP)
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
 - 📫 How to reach me:<br/>
      > 🌲 [Linktr.ee](https://linktr.ee/acamillo)<br/>
