@@ -2,17 +2,6 @@
 
 <!--
 **amcamillo/amcamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 I'm passionate about Networks, Cloud and InfoSec. 
@@ -24,6 +13,9 @@ I guess you can call me a rebel (or just someone that is constantly learning) th
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
 - 📫 How to reach me:<br/>
      > 🌲 [Linktr.ee](https://linktr.ee/acamillo)<br/>
+
+And this is the reason why I need to work and succeed:
+<img width="231" alt="A very spoiled and well behaved gurl" src="https://github.com/amcamillo/amcamillo/assets/58806811/ce370476-ebc9-4194-9270-c994ae6028b9">
 
 <!--
      > 🕸️ [Cloudnsec.com](https://cloudnsec.com)<br/>
