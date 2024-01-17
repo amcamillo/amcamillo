@@ -8,6 +8,7 @@ I'm passionate about Networks, Cloud and InfoSec.
 A geek at heart who loves to play with tech and the piano despite not being good at either.
 I guess you can call me a rebel (or just someone that is constantly learning) then.
 
+- CISSP, Certified Microsoft Security Architect, Security Analyst, AZ-900, etc etc...
 - ⚒️ I work @Microsoft with Cloud Security & Compliance.
 - 🦾 I’m looking to collaborate on Azure and Cybersecurity-related automation codes (BICEP)
 - 💬 Ask me about Career, Cloud, Infosec (and Music)
