@@ -4,7 +4,7 @@
 **amcamillo/amcamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm passionate about Networks, Cloud and InfoSec. 
+I'm passionate about securing people in the digital world and its many assets. 
 A geek at heart who loves to play with tech and the piano despite not being good at either.
 I guess you can call me a rebel (or just someone that is constantly learning) then.
 
