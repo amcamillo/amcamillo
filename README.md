@@ -12,8 +12,8 @@ I guess you can call me a rebel (or just someone that is constantly learning) th
 - ⚒️ I work with Solution Development, Cloud Security & Compliance
 
 Recommended WIP Repos:<br/>
-     > ⚙️ [Tools I created / Front Page] (https://amcamillo.github.io/cloudnsec-learninghub/)<br/>
-     > 📋 [List of Cyber Security Tools] (https://github.com/amcamillo/Cybersecurity_Tools)<br/>
+> ⚙️ [Tools I created / Front Page] (https://amcamillo.github.io/cloudnsec-learninghub/)<br/>
+> 📋 [List of Cyber Security Tools] (https://github.com/amcamillo/Cybersecurity_Tools)<br/>
 
 
 <!--
