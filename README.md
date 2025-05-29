@@ -4,9 +4,8 @@
 **amcamillo/amcamillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm passionate about securing people in the digital world and its many assets. 
-A geek at heart who loves to play with tech and the piano despite not being good at either.
-I guess you can call me a rebel (or just someone that is constantly learning) then.
+I'm passionate about securing people in the digital world and its many facets.
+You can find me talking about music, tech, cyber and likely go-karting in youtube.
 
 - CISSP, Certified CrowdStrike Falcon Administrator, Microsoft Security Architect, Security Analyst, AZ-900, etc etc...
 - ⚒️ I work with Solution Development, Cloud Security & Compliance
