@@ -7,8 +7,8 @@
 I'm passionate about securing people in the digital world and its many facets.
 You can find me talking about music, tech, cyber and likely go-karting in youtube.
 
-- CISSP, Certified CrowdStrike Falcon Administrator, Microsoft Security Architect, Security Analyst, AZ-900, etc etc...
-- ⚒️ I work with Solution Development, Cloud Security & Compliance
+- CISSP, Certified CrowdStrike Falcon Administrator/Cloud/Responder, Microsoft Security Architect, Security Analyst, AI-900, AZ-900, Cisco CCNP Security, etc etc...
+- ⚒️ I work with Solution Architecture / Business Development, Cloud Security & Compliance.
 
 Recommended WIP Repos:<br/>
 > ⚙️ [Tools I created / Front Page] (https://amcamillo.github.io/cloudnsec-learninghub/)<br/>
